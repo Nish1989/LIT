@@ -1,0 +1,9 @@
+
+/* headert_text_resize */
+.headstrip { width:970px; padding:0; margin:0 auto; background: url(../images/text_bg.jpg)  center no-repeat; height:320px;}
+.headstrip img { float:right; margin:0; padding:15px 36px 0 0;}
+.headstrip .txtarea { width:400px; margin:0; padding:80px 30px 0 80px; float:left;}
+.headstrip .txtarea h2 { font: bold 24px Arial, Helvetica, sans-serif; color:#feffff; padding:10px 0; margin:0;}
+.headstrip .txtarea p { font: bold 15px Arial, Helvetica, sans-serif; color:#feffff; padding:10px 0; margin:0; line-height:1.6em;}
+.headstrip .txtarea a { color:#feffff; text-decoration:underline;}
+/*body*/
